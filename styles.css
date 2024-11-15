@@ -1,0 +1,27 @@
+body {
+  margin: 60px 200px
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  font-family: Arial, Helvetica, sans-serif;
+  color: darkcyan;
+  text-align: center;
+}
+
+li {
+  text-align: center;
+}
+
+h1, h2 { 
+  background-color: rgb(240, 128, 128);
+  color: white;
+  text-align: center;
+}
+
+h2 {
+  background-color: #7F2CCB;
+}
